@@ -1,0 +1,58 @@
+
+======================================================================
+                OPTISTOCK AI — EXECUTIVE SUMMARY REPORT               
+======================================================================
+
+PLANT DECISION: RAMP_UP
+CONFIDENCE: HIGH
+
+RATIONALE:
+Strong market demand, positive social signals, and manageable inventory levels indicate a need to increase production.
+
+KEY INSIGHT:
+Ramp up production to meet strong market demand and capitalize on revenue opportunities
+
+TOP PRODUCTION PRIORITIES:
+  1. Engine Block 1.5L Petrol
+     Part ID: ENG-001
+     Reason: High market demand and social signals
+
+  2. Turbocharger Assembly
+     Part ID: ENG-002
+     Reason: High market demand and social signals
+
+  3. ECU Engine Control Unit
+     Part ID: ELE-001
+     Reason: High social signals and moderate market demand
+
+  4. Fuel Injector Set 4-cyl
+     Part ID: ENG-003
+     Reason: Moderate market demand and social signals
+
+  5. Manual Gearbox 5-speed
+     Part ID: TRN-001
+     Reason: Moderate market demand and social signals
+
+
+CRITICAL RISK FLAGS:
+  ⚠ Inventory health score is below average
+  ⚠ Total surplus value is high but may not be sold quickly
+
+REVENUE OPPORTUNITIES:
+  💰 Sell surplus inventory of ELE-002 and ELE-003
+  💰 Increase production of high-demand parts
+
+PARTS TO REDUCE/SELL:
+  • MacPherson Strut Assembly (SUS-001)
+    Reason: Low market demand and surplus inventory
+  • Anti-Roll Bar Kit (SUS-002)
+    Reason: Low market demand and surplus inventory
+  • Disc Brake Rotor Front Pair (BRK-001)
+    Reason: Moderate market demand but surplus inventory
+
+IMMEDIATE ACTIONS:
+  → Increase production of top priority parts
+  → Sell surplus inventory of parts to reduce
+  → Monitor and adjust production plan as needed
+
+======================================================================

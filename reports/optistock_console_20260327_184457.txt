@@ -1,0 +1,84 @@
+╔══════════════════════════════════════════════════════════╗
+║        OptiStock AI — Multi-Agent Intelligence          ║
+║      Automotive Parts Manufacturing System v2.0         ║
+╚══════════════════════════════════════════════════════════╝
+
+  Started: 2026-03-27T13:13:39.336163Z
+  Plant Location: Chennai, India
+  Duration: 78.48s
+
+────────────────────────────────────────────────────────────────────────────────
+──────────────────────── AGENT 1 — MARKET INTELLIGENCE ─────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+  ▶ Parts Demand Analysis
+    ◆ ENG-001    Demand Factor: 1.000  ➡ STABLE
+    ◆ ENG-002    Demand Factor: 1.000  ➡ STABLE
+    ◆ ENG-003    Demand Factor: 1.000  ➡ STABLE
+    ◆ TRN-001    Demand Factor: 1.000  ➡ STABLE
+    ◆ TRN-002    Demand Factor: 1.000  ➡ STABLE
+  ▶ Agent 1 Summary
+    ✔ Overall Market Sentiment  : Neutral
+
+────────────────────────────────────────────────────────────────────────────────
+─────────────────────── AGENT 2 — ENVIRONMENTAL & SAFETY ───────────────────────
+────────────────────────────────────────────────────────────────────────────────
+  ▶ Environmental Status
+    ✔ Production Factor: 1.00x
+    ✔ Risk Level: LOW
+    ✔ No significant hazards
+
+────────────────────────────────────────────────────────────────────────────────
+─────────────────────── AGENT 3 — INVENTORY INTELLIGENCE ───────────────────────
+────────────────────────────────────────────────────────────────────────────────
+  ▶ Inventory Health
+    ✔ Health Score: 43.33/100
+    ✔ Total Surplus Value: ₹ 43,455,000
+    ✔ Total Reorder Cost: ₹ 23,450,000
+  ▶ Urgent Production Items (2)
+    ⚠ [ENG-001] Engine Block 1.5L Petrol - Qty: 122
+    ⚠ [ENG-002] Turbocharger Assembly - Qty: 88
+  ▶ Top Sellable Surplus (20 items)
+    💰 ADAS Camera Module                          555 units ₹  12,150,000
+    💰 Battery Management System                   545 units ₹  19,150,000
+    💰 MacPherson Strut Assembly                   281 units ₹   1,734,000
+
+────────────────────────────────────────────────────────────────────────────────
+─────────────────── AGENT 4 — SOCIAL PULSE & TREND ANALYSIS ────────────────────
+────────────────────────────────────────────────────────────────────────────────
+  ▶ Social Intelligence
+    ✔ Overall Sentiment: Positive
+    ✔ Buzz Score: 85.0/100
+    ✔ Hottest Category: Electronics
+
+════════════════════════════════════════════════════════════════════════════════
+═══════════════════════ EXECUTIVE SUMMARY — OPTISTOCK AI ═════════════════════════
+════════════════════════════════════════════════════════════════════════════════
+
+  ▶ Plant Decision: RAMP_UP
+  ▶ Rationale: Strong market demand, positive social signals, and manageable inventory levels indicate a need to increase production.
+  ▶ Confidence: HIGH
+  ▶ One-liner: Ramp up production to meet strong market demand and capitalize on revenue opportunities
+
+  TOP 5 PRODUCTION PRIORITIES
+    1. Engine Block 1.5L Petrol                 [ENG-001]
+       Reason: High market demand and social signals
+    2. Turbocharger Assembly                    [ENG-002]
+       Reason: High market demand and social signals
+    3. ECU Engine Control Unit                  [ELE-001]
+       Reason: High social signals and moderate market demand
+    4. Fuel Injector Set 4-cyl                  [ENG-003]
+       Reason: Moderate market demand and social signals
+    5. Manual Gearbox 5-speed                   [TRN-001]
+       Reason: Moderate market demand and social signals
+
+  🚨 CRITICAL RISK FLAGS (2 items)
+     • Inventory health score is below average
+     • Total surplus value is high but may not be sold quickly
+
+  💰 REVENUE OPPORTUNITIES (2 items)
+     • Sell surplus inventory of ELE-002 and ELE-003
+     • Increase production of high-demand parts
+
+════════════════════════════════════════════════════════════════════════════════
+════════════════════════ REPORT GENERATION COMPLETE ════════════════════════════
+════════════════════════════════════════════════════════════════════════════════

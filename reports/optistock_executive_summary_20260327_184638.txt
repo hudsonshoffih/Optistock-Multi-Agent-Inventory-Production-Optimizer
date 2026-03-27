@@ -1,0 +1,50 @@
+
+======================================================================
+                OPTISTOCK AI — EXECUTIVE SUMMARY REPORT               
+======================================================================
+
+PLANT DECISION: RAMP_UP
+CONFIDENCE: HIGH
+
+RATIONALE:
+Strong market demand, positive social signals, and manageable inventory levels suggest increasing production to meet growing customer needs.
+
+KEY INSIGHT:
+Ramp up production to meet growing customer demands and capitalize on revenue opportunities.
+
+TOP PRODUCTION PRIORITIES:
+  1. Engine Block 1.5L Petrol
+     Part ID: ENG-001
+     Reason: High market demand factor (1.0) and social factor (1.23)
+
+  2. Turbocharger Assembly
+     Part ID: ENG-002
+     Reason: High market demand factor (1.0) and social factor (1.15)
+
+  3. ADAS Camera Module
+     Part ID: ELE-002
+     Reason: High surplus units (555) and revenue potential (12110000.0 INR)
+
+
+CRITICAL RISK FLAGS:
+  ⚠ Negative production pressure for SUS-001 and ELE-003
+  ⚠ Low social factor for BRK-001
+
+REVENUE OPPORTUNITIES:
+  💰 Sell surplus units of ELE-002 and ELE-003
+  💰 Increase production of top-priority parts
+
+PARTS TO REDUCE/SELL:
+  • MacPherson Strut Assembly (SUS-001)
+    Reason: Negative production pressure (-1.0)
+  • Battery Management System (ELE-003)
+    Reason: Negative production pressure (-1.0)
+  • Disc Brake Rotor Front Pair (BRK-001)
+    Reason: Low social factor (0.85)
+
+IMMEDIATE ACTIONS:
+  → Increase production of top-priority parts
+  → Sell surplus units of ELE-002 and ELE-003
+  → Monitor and adjust production plan based on market and social signals
+
+======================================================================

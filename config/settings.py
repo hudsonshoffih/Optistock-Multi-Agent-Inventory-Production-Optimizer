@@ -21,8 +21,8 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 if not GROQ_API_KEY:
     raise ValueError("❌ GROQ_API_KEY not found. Check your .env file")
 
-LLM_MODEL = "mixtral-8x7b-32768"
-LLM_MODEL_HEAVY = "llama-3-70b-versatile"
+LLM_MODEL = "llama-3.1-8b-instant"         # Fast, for agent analysis
+LLM_MODEL_HEAVY = "llama-3.1-8b-instant"    # For executive summary
 LLM_MAX_TOKENS = 2048
 LLM_TEMPERATURE = 0.2
 

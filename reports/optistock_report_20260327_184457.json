@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "system": "OptiStock AI v2.0",
+    "generated_at": "2026-03-27T13:13:39.336163Z",
+    "duration_s": 78.48,
+    "plant": "Chennai, India"
+  },
+  "summary": {
+    "market": {
+      "demand_factors": {
+        "ENG-001": 1.0,
+        "ENG-002": 1.0,
+        "ENG-003": 1.0,
+        "TRN-001": 1.0,
+        "TRN-002": 1.0,
+        "SUS-001": 1.0,
+        "SUS-002": 1.0,
+        "BRK-001": 1.0,
+        "BRK-002": 1.0,
+        "ELE-001": 1.0,
+        "ELE-002": 1.0,
+        "ELE-003": 1.0,
+        "EXH-001": 1.0,
+        "COO-001": 1.0,
+        "STR-001": 1.0
+      },
+      "sector_summary": {
+        "ev_momentum_pct": 0.0,
+        "oe_momentum_pct": 0.0,
+        "overall_sentiment": "Neutral",
+        "key_drivers": []
+      },
+      "top_demand_parts": [],
+      "low_demand_parts": []
+    },
+    "environment": {
+      "production_factor": 1.0,
+      "risk_level": "LOW",
+      "risk_summary": "No significant hazards",
+      "active_alerts": [],
+      "safety_actions": [],
+      "worker_safety_ok": true,
+      "logistics_disruption": false,
+      "forecast_highlights": {
+        "max_rain_mm": 0.0,
+        "max_wind_kmh": 12.5,
+        "max_temp_c": 36.0,
+        "worst_condition": "Mainly Clear"
+      }
+    },
+    "inventory": {
+      "production_pressure": {
+        "ENG-001": 1.0,
+        "ENG-002": 1.0,
+        "TRN-001": 0.0,
+        "TRN-002": 0.0,
+        "SUS-001": -1.0,
+        "SUS-002": 0.0,
+        "BRK-001": 0.0,
+        "BRK-002": 0.0,
+        "ELE-001": 0.0,
+        "ELE-002": -1.0,
+        "ELE-003": -1.0,
+        "EXH-001": 0.0,
+        "COO-001": 0.0,
+        "STR-001": 0.0
+      },
+      "urgent_production": [
+        {
+          "part_id": "ENG-001",
+          "name": "Engine Block 1.5L Petrol",
+          "dos": 3.3,
+          "recommended_qty": 122
+        },
+        {
+          "part_id": "ENG-002",
+          "name": "Turbocharger Assembly",
+          "dos": 2.8,
+          "recommended_qty": 88
+        }
+      ],
+      "sellable_surplus": [
+        {
+          "part_id": "ELE-002",
+          "name": "ADAS Camera Module",
+          "surplus_units": 555,
+          "revenue_potential_inr": 12150000,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "ELE-003",
+          "name": "Battery Management System",
+          "surplus_units": 545,
+          "revenue_potential_inr": 19150000,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "SUS-001",
+          "name": "MacPherson Strut Assembly",
+          "surplus_units": 281,
+          "revenue_potential_inr": 1734000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "SUS-001",
+          "name": "MacPherson Strut Assembly",
+          "surplus_units": 281,
+          "revenue_potential_inr": 1734000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "ELE-002",
+          "name": "ADAS Camera Module",
+          "surplus_units": 555,
+          "revenue_potential_inr": 12150000,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "ELE-003",
+          "name": "Battery Management System",
+          "surplus_units": 545,
+          "revenue_potential_inr": 19150000,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "TRN-002",
+          "name": "CVT Transmission Unit",
+          "surplus_units": 473,
+          "revenue_potential_inr": 26025000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "TRN-002",
+          "name": "CVT Transmission Unit",
+          "surplus_units": 473,
+          "revenue_potential_inr": 26025000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "SUS-002",
+          "name": "Anti-Roll Bar Kit",
+          "surplus_units": 517,
+          "revenue_potential_inr": 1952600,
+          "sell_priority": "LOW"
+        },
+        {
+          "part_id": "SUS-002",
+          "name": "Anti-Roll Bar Kit",
+          "surplus_units": 517,
+          "revenue_potential_inr": 1952600,
+          "sell_priority": "LOW"
+        },
+        {
+          "part_id": "BRK-001",
+          "name": "Disc Brake Rotor Front Pair",
+          "surplus_units": 426,
+          "revenue_potential_inr": 1917000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "BRK-001",
+          "name": "Disc Brake Rotor Front Pair",
+          "surplus_units": 426,
+          "revenue_potential_inr": 1917000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "ELE-002",
+          "name": "ADAS Camera Module",
+          "surplus_units": 555,
+          "revenue_potential_inr": 12150000,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "ELE-003",
+          "name": "Battery Management System",
+          "surplus_units": 545,
+          "revenue_potential_inr": 19150000,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "TRN-002",
+          "name": "CVT Transmission Unit",
+          "surplus_units": 473,
+          "revenue_potential_inr": 26025000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "TRN-002",
+          "name": "CVT Transmission Unit",
+          "surplus_units": 473,
+          "revenue_potential_inr": 26025000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "SUS-002",
+          "name": "Anti-Roll Bar Kit",
+          "surplus_units": 517,
+          "revenue_potential_inr": 1952600,
+          "sell_priority": "LOW"
+        },
+        {
+          "part_id": "SUS-002",
+          "name": "Anti-Roll Bar Kit",
+          "surplus_units": 517,
+          "revenue_potential_inr": 1952600,
+          "sell_priority": "LOW"
+        },
+        {
+          "part_id": "BRK-001",
+          "name": "Disc Brake Rotor Front Pair",
+          "surplus_units": 426,
+          "revenue_potential_inr": 1917000,
+          "sell_priority": "MEDIUM"
+        },
+        {
+          "part_id": "BRK-001",
+          "name": "Disc Brake Rotor Front Pair",
+          "surplus_units": 426,
+          "revenue_potential_inr": 1917000,
+          "sell_priority": "MEDIUM"
+        }
+      ],
+      "reorder_items": [
+        {
+          "part_id": "ENG-001",
+          "name": "Engine Block 1.5L Petrol",
+          "order_qty": 72,
+          "urgency": "CRITICAL",
+          "estimated_cost_inr": 3240000
+        },
+        {
+          "part_id": "ENG-002",
+          "name": "Turbocharger Assembly",
+          "order_qty": 82,
+          "urgency": "CRITICAL",
+          "estimated_cost_inr": 2296000
+        },
+        {
+          "part_id": "TRN-001",
+          "name": "Manual Gearbox 5-speed",
+          "order_qty": 428,
+          "urgency": "HIGH",
+          "estimated_cost_inr": 13696000
+        },
+        {
+          "part_id": "TRN-002",
+          "name": "CVT Transmission Unit",
+          "order_qty": 6,
+          "urgency": "HIGH",
+          "estimated_cost_inr": 1305000
+        },
+        {
+          "part_id": "ELE-001",
+          "name": "ECU Engine Control Unit",
+          "order_qty": 33,
+          "urgency": "MEDIUM",
+          "estimated_cost_inr": 612500
+        },
+        {
+          "part_id": "ELE-003",
+          "name": "Battery Management System",
+          "order_qty": 175,
+          "urgency": "MEDIUM",
+          "estimated_cost_inr": 6125000
+        },
+        {
+          "part_id": "EXH-001",
+          "name": "Catalytic Converter",
+          "order_qty": 50,
+          "urgency": "MEDIUM",
+          "estimated_cost_inr": 490000
+        },
+        {
+          "part_id": "COO-001",
+          "name": "Radiator Assembly",
+          "order_qty": 86,
+          "urgency": "MEDIUM",
+          "estimated_cost_inr": 475000
+        },
+        {
+          "part_id": "STR-001",
+          "name": "Power Steering Rack",
+          "order_qty": 86,
+          "urgency": "MEDIUM",
+          "estimated_cost_inr": 1040000
+        }
+      ],
+      "inventory_health_score": 43.33,
+      "total_surplus_value_inr": 43455000,
+      "total_reorder_cost_inr": 23450000
+    },
+    "social": {
+      "social_signals": {
+        "ENG-001": 1.35,
+        "ENG-002": 1.25,
+        "ENG-003": 1.15,
+        "TRN-001": 0.95,
+        "TRN-002": 0.85,
+        "SUS-001": 0.75,
+        "SUS-002": 0.65,
+        "BRK-001": 0.55,
+        "BRK-002": 0.45,
+        "ELE-001": 1.45,
+        "ELE-002": 1.35,
+        "ELE-003": 1.25,
+        "EXH-001": 0.85,
+        "COO-001": 0.75,
+        "STR-001": 0.65
+      },
+      "buzz_summary": {
+        "overall_sentiment": "Positive",
+        "buzz_score": 85.0,
+        "trending_topics": [
+          "EV battery",
+          "SBTi"
+        ],
+        "ev_vs_ice_split_pct": {
+          "ev": 80,
+          "ice": 20
+        },
+        "top_reddit_mentions": [
+          "EV",
+          "engine"
+        ],
+        "key_news_themes": [
+          "India's auto boom",
+          "SBTi"
+        ]
+      },
+      "hottest_category": "Electronics",
+      "coldest_category": "Suspension"
+    }
+  },
+  "production_plan": {
+    "ENG-001": {
+      "part_id": "ENG-001",
+      "name": "Engine Block 1.5L Petrol",
+      "category": "Powertrain",
+      "unit_cost": 45000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.35,
+      "inv_factor": 1.5,
+      "env_factor": 1.0,
+      "combined_score": 1.2125,
+      "rec_daily_qty": 28,
+      "priority": "HIGH"
+    },
+    "ENG-002": {
+      "part_id": "ENG-002",
+      "name": "Turbocharger Assembly",
+      "category": "Powertrain",
+      "unit_cost": 28000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.25,
+      "inv_factor": 1.5,
+      "env_factor": 1.0,
+      "combined_score": 1.1875,
+      "rec_daily_qty": 28,
+      "priority": "HIGH"
+    },
+    "ENG-003": {
+      "part_id": "ENG-003",
+      "name": "Fuel Injector Set 4-cyl",
+      "category": "Powertrain",
+      "unit_cost": 8500,
+      "mkt_factor": 1.0,
+      "social_factor": 1.15,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 1.0375,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    },
+    "TRN-001": {
+      "part_id": "TRN-001",
+      "name": "Manual Gearbox 5-speed",
+      "category": "Transmission",
+      "unit_cost": 32000,
+      "mkt_factor": 1.0,
+      "social_factor": 0.95,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.9875,
+      "rec_daily_qty": 23,
+      "priority": "MEDIUM"
+    },
+    "TRN-002": {
+      "part_id": "TRN-002",
+      "name": "CVT Transmission Unit",
+      "category": "Transmission",
+      "unit_cost": 55000,
+      "mkt_factor": 1.0,
+      "social_factor": 0.85,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.9625,
+      "rec_daily_qty": 22,
+      "priority": "MEDIUM"
+    },
+    "SUS-001": {
+      "part_id": "SUS-001",
+      "name": "MacPherson Strut Assembly",
+      "category": "Suspension",
+      "unit_cost": 6200,
+      "mkt_factor": 1.0,
+      "social_factor": 0.75,
+      "inv_factor": 0.5,
+      "env_factor": 1.0,
+      "combined_score": 0.8125,
+      "rec_daily_qty": 19,
+      "priority": "LOW"
+    },
+    "SUS-002": {
+      "part_id": "SUS-002",
+      "name": "Anti-Roll Bar Kit",
+      "category": "Suspension",
+      "unit_cost": 3800,
+      "mkt_factor": 1.0,
+      "social_factor": 0.65,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.9125,
+      "rec_daily_qty": 21,
+      "priority": "MEDIUM"
+    },
+    "BRK-001": {
+      "part_id": "BRK-001",
+      "name": "Disc Brake Rotor Front Pair",
+      "category": "Brakes",
+      "unit_cost": 4500,
+      "mkt_factor": 1.0,
+      "social_factor": 0.55,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.8875,
+      "rec_daily_qty": 21,
+      "priority": "MEDIUM"
+    },
+    "BRK-002": {
+      "part_id": "BRK-002",
+      "name": "ABS Sensor Module",
+      "category": "Brakes",
+      "unit_cost": 7200,
+      "mkt_factor": 1.0,
+      "social_factor": 0.45,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.8625,
+      "rec_daily_qty": 20,
+      "priority": "MEDIUM"
+    },
+    "ELE-001": {
+      "part_id": "ELE-001",
+      "name": "ECU Engine Control Unit",
+      "category": "Electronics",
+      "unit_cost": 18500,
+      "mkt_factor": 1.0,
+      "social_factor": 1.45,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 1.1125,
+      "rec_daily_qty": 26,
+      "priority": "HIGH"
+    },
+    "ELE-002": {
+      "part_id": "ELE-002",
+      "name": "ADAS Camera Module",
+      "category": "Electronics",
+      "unit_cost": 22000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.35,
+      "inv_factor": 0.5,
+      "env_factor": 1.0,
+      "combined_score": 0.9625,
+      "rec_daily_qty": 22,
+      "priority": "MEDIUM"
+    },
+    "ELE-003": {
+      "part_id": "ELE-003",
+      "name": "Battery Management System",
+      "category": "Electronics",
+      "unit_cost": 35000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.25,
+      "inv_factor": 0.5,
+      "env_factor": 1.0,
+      "combined_score": 0.9375,
+      "rec_daily_qty": 22,
+      "priority": "MEDIUM"
+    },
+    "EXH-001": {
+      "part_id": "EXH-001",
+      "name": "Catalytic Converter",
+      "category": "Exhaust",
+      "unit_cost": 9800,
+      "mkt_factor": 1.0,
+      "social_factor": 0.85,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.9625,
+      "rec_daily_qty": 22,
+      "priority": "MEDIUM"
+    },
+    "COO-001": {
+      "part_id": "COO-001",
+      "name": "Radiator Assembly",
+      "category": "Cooling",
+      "unit_cost": 5500,
+      "mkt_factor": 1.0,
+      "social_factor": 0.75,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.9375,
+      "rec_daily_qty": 22,
+      "priority": "MEDIUM"
+    },
+    "STR-001": {
+      "part_id": "STR-001",
+      "name": "Power Steering Rack",
+      "category": "Steering",
+      "unit_cost": 12000,
+      "mkt_factor": 1.0,
+      "social_factor": 0.65,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 0.9125,
+      "rec_daily_qty": 21,
+      "priority": "MEDIUM"
+    }
+  },
+  "executive_summary": {
+    "plant_decision": "RAMP_UP",
+    "decision_rationale": "Strong market demand, positive social signals, and manageable inventory levels indicate a need to increase production.",
+    "top_production_priorities": [
+      {
+        "part_id": "ENG-001",
+        "name": "Engine Block 1.5L Petrol",
+        "reason": "High market demand and social signals"
+      },
+      {
+        "part_id": "ENG-002",
+        "name": "Turbocharger Assembly",
+        "reason": "High market demand and social signals"
+      },
+      {
+        "part_id": "ELE-001",
+        "name": "ECU Engine Control Unit",
+        "reason": "High social signals and moderate market demand"
+      },
+      {
+        "part_id": "ENG-003",
+        "name": "Fuel Injector Set 4-cyl",
+        "reason": "Moderate market demand and social signals"
+      },
+      {
+        "part_id": "TRN-001",
+        "name": "Manual Gearbox 5-speed",
+        "reason": "Moderate market demand and social signals"
+      }
+    ],
+    "parts_to_reduce": [
+      {
+        "part_id": "SUS-001",
+        "name": "MacPherson Strut Assembly",
+        "reason": "Low market demand and surplus inventory"
+      },
+      {
+        "part_id": "SUS-002",
+        "name": "Anti-Roll Bar Kit",
+        "reason": "Low market demand and surplus inventory"
+      },
+      {
+        "part_id": "BRK-001",
+        "name": "Disc Brake Rotor Front Pair",
+        "reason": "Moderate market demand but surplus inventory"
+      }
+    ],
+    "immediate_actions": [
+      "Increase production of top priority parts",
+      "Sell surplus inventory of parts to reduce",
+      "Monitor and adjust production plan as needed"
+    ],
+    "risk_flags": [
+      "Inventory health score is below average",
+      "Total surplus value is high but may not be sold quickly"
+    ],
+    "revenue_opportunities": [
+      "Sell surplus inventory of ELE-002 and ELE-003",
+      "Increase production of high-demand parts"
+    ],
+    "confidence": "HIGH",
+    "one_liner": "Ramp up production to meet strong market demand and capitalize on revenue opportunities"
+  },
+  "statistics": {
+    "high_priority_parts": 3,
+    "medium_priority_parts": 11,
+    "low_priority_parts": 1,
+    "total_rec_daily_units": 341
+  }
+}

@@ -1,0 +1,492 @@
+{
+    "status": "success",
+    "message": "Pipeline completed and formatted",
+    "console_output": "\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557\n\u2551        OptiStock AI \u2014 Multi-Agent Intelligence          \u2551\n\u2551      Automotive Parts Manufacturing System v2.0         \u2551\n\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d\n\n  Started: 2026-03-27T13:15:48.744812Z\n  Plant Location: Chennai, India\n  Duration: 49.46s\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 AGENT 1 \u2014 MARKET INTELLIGENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  \u25b6 Parts Demand Analysis\n    \u25c6 ENG-001    Demand Factor: 1.000  \u27a1 STABLE\n    \u25c6 ENG-002    Demand Factor: 1.000  \u27a1 STABLE\n    \u25c6 ENG-003    Demand Factor: 1.000  \u27a1 STABLE\n    \u25c6 TRN-001    Demand Factor: 1.000  \u27a1 STABLE\n    \u25c6 TRN-002    Demand Factor: 1.000  \u27a1 STABLE\n  \u25b6 Agent 1 Summary\n    \u2714 Overall Market Sentiment  : Neutral\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 AGENT 2 \u2014 ENVIRONMENTAL & SAFETY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  \u25b6 Environmental Status\n    \u2714 Production Factor: 0.80x\n    \u2714 Risk Level: LOW\n    \u2714 No significant weather risks or disaster alerts in the next 3 days.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 AGENT 3 \u2014 INVENTORY INTELLIGENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  \u25b6 Inventory Health\n    \u2714 Health Score: 44.0/100\n    \u2714 Total Surplus Value: \u20b9 34,461,000\n    \u2714 Total Reorder Cost: \u20b9 55,560,000\n  \u25b6 Urgent Production Items (2)\n    \u26a0 [ENG-001] Engine Block 1.5L Petrol - Qty: 143\n    \u26a0 [ENG-002] Turbocharger Assembly - Qty: 110\n  \u25b6 Top Sellable Surplus (3 items)\n    \ud83d\udcb0 MacPherson Strut Assembly                   281 units \u20b9   1,722,600\n    \ud83d\udcb0 ADAS Camera Module                          555 units \u20b9  12,110,000\n    \ud83d\udcb0 Battery Management System                   545 units \u20b9  19,150,000\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 AGENT 4 \u2014 SOCIAL PULSE & TREND ANALYSIS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  \u25b6 Social Intelligence\n    \u2714 Overall Sentiment: Positive\n    \u2714 Buzz Score: 85/100\n    \u2714 Hottest Category: Electronics\n\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550 EXECUTIVE SUMMARY \u2014 OPTISTOCK AI \u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\n  \u25b6 Plant Decision: RAMP_UP\n  \u25b6 Rationale: Strong market demand, positive social signals, and manageable inventory levels suggest increasing production to meet growing customer needs.\n  \u25b6 Confidence: HIGH\n  \u25b6 One-liner: Ramp up production to meet growing customer demands and capitalize on revenue opportunities.\n\n  TOP 5 PRODUCTION PRIORITIES\n    1. Engine Block 1.5L Petrol                 [ENG-001]\n       Reason: High market demand factor (1.0) and social factor (1.23)\n    2. Turbocharger Assembly                    [ENG-002]\n       Reason: High market demand factor (1.0) and social factor (1.15)\n    3. ADAS Camera Module                       [ELE-002]\n       Reason: High surplus units (555) and revenue potential (12110000.0 INR)\n\n  \ud83d\udea8 CRITICAL RISK FLAGS (2 items)\n     \u2022 Negative production pressure for SUS-001 and ELE-003\n     \u2022 Low social factor for BRK-001\n\n  \ud83d\udcb0 REVENUE OPPORTUNITIES (2 items)\n     \u2022 Sell surplus units of ELE-002 and ELE-003\n     \u2022 Increase production of top-priority parts\n\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550 REPORT GENERATION COMPLETE \u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550",
+    "json_report": {
+        "metadata": {
+            "system": "OptiStock AI v2.0",
+            "generated_at": "2026-03-27T13:15:48.744812Z",
+            "duration_s": 49.46,
+            "plant": "Chennai, India"
+        },
+        "summary": {
+            "market": {
+                "demand_factors": {
+                    "ENG-001": 1.0,
+                    "ENG-002": 1.0,
+                    "ENG-003": 1.0,
+                    "TRN-001": 1.0,
+                    "TRN-002": 1.0,
+                    "SUS-001": 1.0,
+                    "SUS-002": 1.0,
+                    "BRK-001": 1.0,
+                    "BRK-002": 1.0,
+                    "ELE-001": 1.0,
+                    "ELE-002": 1.0,
+                    "ELE-003": 1.0,
+                    "EXH-001": 1.0,
+                    "COO-001": 1.0,
+                    "STR-001": 1.0
+                },
+                "sector_summary": {
+                    "ev_momentum_pct": 0.0,
+                    "oe_momentum_pct": 0.0,
+                    "overall_sentiment": "Neutral",
+                    "key_drivers": []
+                },
+                "top_demand_parts": [],
+                "low_demand_parts": []
+            },
+            "environment": {
+                "production_factor": 0.8,
+                "risk_level": "LOW",
+                "risk_summary": "No significant weather risks or disaster alerts in the next 3 days.",
+                "active_alerts": [],
+                "safety_actions": [],
+                "worker_safety_ok": true,
+                "logistics_disruption": false,
+                "forecast_highlights": {
+                    "max_rain_mm": 0.0,
+                    "max_wind_kmh": 12.5,
+                    "max_temp_c": 35.7,
+                    "worst_condition": "Overcast"
+                }
+            },
+            "inventory": {
+                "production_pressure": {
+                    "ENG-001": 1.0,
+                    "ENG-002": 1.0,
+                    "TRN-001": 0.0,
+                    "TRN-002": 0.0,
+                    "SUS-001": -1.0,
+                    "SUS-002": 0.0,
+                    "BRK-001": 0.0,
+                    "BRK-002": 0.0,
+                    "ELE-001": 0.0,
+                    "ELE-002": -1.0,
+                    "ELE-003": -1.0,
+                    "EXH-001": 0.0,
+                    "COO-001": 0.0,
+                    "STR-001": 0.0
+                },
+                "urgent_production": [
+                    {
+                        "part_id": "ENG-001",
+                        "name": "Engine Block 1.5L Petrol",
+                        "dos": 3.3,
+                        "recommended_qty": 143
+                    },
+                    {
+                        "part_id": "ENG-002",
+                        "name": "Turbocharger Assembly",
+                        "dos": 2.8,
+                        "recommended_qty": 110
+                    }
+                ],
+                "sellable_surplus": [
+                    {
+                        "part_id": "SUS-001",
+                        "name": "MacPherson Strut Assembly",
+                        "surplus_units": 281,
+                        "revenue_potential_inr": 1722600.0,
+                        "sell_priority": "HIGH"
+                    },
+                    {
+                        "part_id": "ELE-002",
+                        "name": "ADAS Camera Module",
+                        "surplus_units": 555,
+                        "revenue_potential_inr": 12110000.0,
+                        "sell_priority": "HIGH"
+                    },
+                    {
+                        "part_id": "ELE-003",
+                        "name": "Battery Management System",
+                        "surplus_units": 545,
+                        "revenue_potential_inr": 19150000.0,
+                        "sell_priority": "HIGH"
+                    }
+                ],
+                "reorder_items": [
+                    {
+                        "part_id": "ENG-001",
+                        "name": "Engine Block 1.5L Petrol",
+                        "order_qty": 143,
+                        "urgency": "CRITICAL",
+                        "estimated_cost_inr": 6450000.0
+                    },
+                    {
+                        "part_id": "ENG-002",
+                        "name": "Turbocharger Assembly",
+                        "order_qty": 110,
+                        "urgency": "CRITICAL",
+                        "estimated_cost_inr": 3080000.0
+                    },
+                    {
+                        "part_id": "TRN-001",
+                        "name": "Manual Gearbox 5-speed",
+                        "order_qty": 111,
+                        "urgency": "HIGH",
+                        "estimated_cost_inr": 3528000.0
+                    },
+                    {
+                        "part_id": "TRN-002",
+                        "name": "CVT Transmission Unit",
+                        "order_qty": 119,
+                        "urgency": "HIGH",
+                        "estimated_cost_inr": 6550000.0
+                    },
+                    {
+                        "part_id": "SUS-002",
+                        "name": "Anti-Roll Bar Kit",
+                        "order_qty": 123,
+                        "urgency": "HIGH",
+                        "estimated_cost_inr": 4664000.0
+                    },
+                    {
+                        "part_id": "BRK-001",
+                        "name": "Disc Brake Rotor Front Pair",
+                        "order_qty": 78,
+                        "urgency": "MEDIUM",
+                        "estimated_cost_inr": 3528000.0
+                    },
+                    {
+                        "part_id": "BRK-002",
+                        "name": "ABS Sensor Module",
+                        "order_qty": 149,
+                        "urgency": "MEDIUM",
+                        "estimated_cost_inr": 10824000.0
+                    },
+                    {
+                        "part_id": "ELE-001",
+                        "name": "ECU Engine Control Unit",
+                        "order_qty": 85,
+                        "urgency": "MEDIUM",
+                        "estimated_cost_inr": 1572500.0
+                    },
+                    {
+                        "part_id": "COO-001",
+                        "name": "Radiator Assembly",
+                        "order_qty": 152,
+                        "urgency": "MEDIUM",
+                        "estimated_cost_inr": 8360000.0
+                    },
+                    {
+                        "part_id": "STR-001",
+                        "name": "Power Steering Rack",
+                        "order_qty": 104,
+                        "urgency": "MEDIUM",
+                        "estimated_cost_inr": 1248000.0
+                    }
+                ],
+                "inventory_health_score": 44.0,
+                "total_surplus_value_inr": 34461000.0,
+                "total_reorder_cost_inr": 55560000.0
+            },
+            "social": {
+                "social_signals": {
+                    "ENG-001": 1.23,
+                    "ENG-002": 1.15,
+                    "ENG-003": 1.08,
+                    "TRN-001": 0.92,
+                    "TRN-002": 0.95,
+                    "SUS-001": 0.88,
+                    "SUS-002": 0.91,
+                    "BRK-001": 0.85,
+                    "BRK-002": 0.89,
+                    "ELE-001": 1.22,
+                    "ELE-002": 1.18,
+                    "ELE-003": 1.12,
+                    "EXH-001": 0.98,
+                    "COO-001": 0.93,
+                    "STR-001": 0.99
+                },
+                "buzz_summary": {
+                    "overall_sentiment": "Positive",
+                    "buzz_score": 85,
+                    "trending_topics": [
+                        "EV battery",
+                        "electric vehicle"
+                    ],
+                    "ev_vs_ice_split_pct": {
+                        "ev": 85,
+                        "ice": 15
+                    },
+                    "top_reddit_mentions": [
+                        "EV",
+                        "turbo",
+                        "electric vehicle"
+                    ],
+                    "key_news_themes": [
+                        "EV battery",
+                        "SBTi",
+                        "battery"
+                    ]
+                },
+                "hottest_category": "Electronics",
+                "coldest_category": "Brakes"
+            }
+        },
+        "production_plan": {
+            "ENG-001": {
+                "part_id": "ENG-001",
+                "name": "Engine Block 1.5L Petrol",
+                "category": "Powertrain",
+                "unit_cost": 45000,
+                "mkt_factor": 1.0,
+                "social_factor": 1.23,
+                "inv_factor": 1.5,
+                "env_factor": 0.8,
+                "combined_score": 0.946,
+                "rec_daily_qty": 22,
+                "priority": "MEDIUM"
+            },
+            "ENG-002": {
+                "part_id": "ENG-002",
+                "name": "Turbocharger Assembly",
+                "category": "Powertrain",
+                "unit_cost": 28000,
+                "mkt_factor": 1.0,
+                "social_factor": 1.15,
+                "inv_factor": 1.5,
+                "env_factor": 0.8,
+                "combined_score": 0.93,
+                "rec_daily_qty": 22,
+                "priority": "MEDIUM"
+            },
+            "ENG-003": {
+                "part_id": "ENG-003",
+                "name": "Fuel Injector Set 4-cyl",
+                "category": "Powertrain",
+                "unit_cost": 8500,
+                "mkt_factor": 1.0,
+                "social_factor": 1.08,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.816,
+                "rec_daily_qty": 19,
+                "priority": "LOW"
+            },
+            "TRN-001": {
+                "part_id": "TRN-001",
+                "name": "Manual Gearbox 5-speed",
+                "category": "Transmission",
+                "unit_cost": 32000,
+                "mkt_factor": 1.0,
+                "social_factor": 0.92,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.784,
+                "rec_daily_qty": 18,
+                "priority": "LOW"
+            },
+            "TRN-002": {
+                "part_id": "TRN-002",
+                "name": "CVT Transmission Unit",
+                "category": "Transmission",
+                "unit_cost": 55000,
+                "mkt_factor": 1.0,
+                "social_factor": 0.95,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.79,
+                "rec_daily_qty": 18,
+                "priority": "LOW"
+            },
+            "SUS-001": {
+                "part_id": "SUS-001",
+                "name": "MacPherson Strut Assembly",
+                "category": "Suspension",
+                "unit_cost": 6200,
+                "mkt_factor": 1.0,
+                "social_factor": 0.88,
+                "inv_factor": 0.5,
+                "env_factor": 0.8,
+                "combined_score": 0.676,
+                "rec_daily_qty": 16,
+                "priority": "LOW"
+            },
+            "SUS-002": {
+                "part_id": "SUS-002",
+                "name": "Anti-Roll Bar Kit",
+                "category": "Suspension",
+                "unit_cost": 3800,
+                "mkt_factor": 1.0,
+                "social_factor": 0.91,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.782,
+                "rec_daily_qty": 18,
+                "priority": "LOW"
+            },
+            "BRK-001": {
+                "part_id": "BRK-001",
+                "name": "Disc Brake Rotor Front Pair",
+                "category": "Brakes",
+                "unit_cost": 4500,
+                "mkt_factor": 1.0,
+                "social_factor": 0.85,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.77,
+                "rec_daily_qty": 18,
+                "priority": "LOW"
+            },
+            "BRK-002": {
+                "part_id": "BRK-002",
+                "name": "ABS Sensor Module",
+                "category": "Brakes",
+                "unit_cost": 7200,
+                "mkt_factor": 1.0,
+                "social_factor": 0.89,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.778,
+                "rec_daily_qty": 18,
+                "priority": "LOW"
+            },
+            "ELE-001": {
+                "part_id": "ELE-001",
+                "name": "ECU Engine Control Unit",
+                "category": "Electronics",
+                "unit_cost": 18500,
+                "mkt_factor": 1.0,
+                "social_factor": 1.22,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.844,
+                "rec_daily_qty": 20,
+                "priority": "LOW"
+            },
+            "ELE-002": {
+                "part_id": "ELE-002",
+                "name": "ADAS Camera Module",
+                "category": "Electronics",
+                "unit_cost": 22000,
+                "mkt_factor": 1.0,
+                "social_factor": 1.18,
+                "inv_factor": 0.5,
+                "env_factor": 0.8,
+                "combined_score": 0.736,
+                "rec_daily_qty": 17,
+                "priority": "LOW"
+            },
+            "ELE-003": {
+                "part_id": "ELE-003",
+                "name": "Battery Management System",
+                "category": "Electronics",
+                "unit_cost": 35000,
+                "mkt_factor": 1.0,
+                "social_factor": 1.12,
+                "inv_factor": 0.5,
+                "env_factor": 0.8,
+                "combined_score": 0.724,
+                "rec_daily_qty": 17,
+                "priority": "LOW"
+            },
+            "EXH-001": {
+                "part_id": "EXH-001",
+                "name": "Catalytic Converter",
+                "category": "Exhaust",
+                "unit_cost": 9800,
+                "mkt_factor": 1.0,
+                "social_factor": 0.98,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.796,
+                "rec_daily_qty": 19,
+                "priority": "LOW"
+            },
+            "COO-001": {
+                "part_id": "COO-001",
+                "name": "Radiator Assembly",
+                "category": "Cooling",
+                "unit_cost": 5500,
+                "mkt_factor": 1.0,
+                "social_factor": 0.93,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.786,
+                "rec_daily_qty": 18,
+                "priority": "LOW"
+            },
+            "STR-001": {
+                "part_id": "STR-001",
+                "name": "Power Steering Rack",
+                "category": "Steering",
+                "unit_cost": 12000,
+                "mkt_factor": 1.0,
+                "social_factor": 0.99,
+                "inv_factor": 1.0,
+                "env_factor": 0.8,
+                "combined_score": 0.798,
+                "rec_daily_qty": 19,
+                "priority": "LOW"
+            }
+        },
+        "executive_summary": {
+            "plant_decision": "RAMP_UP",
+            "decision_rationale": "Strong market demand, positive social signals, and manageable inventory levels suggest increasing production to meet growing customer needs.",
+            "top_production_priorities": [
+                {
+                    "part_id": "ENG-001",
+                    "name": "Engine Block 1.5L Petrol",
+                    "reason": "High market demand factor (1.0) and social factor (1.23)"
+                },
+                {
+                    "part_id": "ENG-002",
+                    "name": "Turbocharger Assembly",
+                    "reason": "High market demand factor (1.0) and social factor (1.15)"
+                },
+                {
+                    "part_id": "ELE-002",
+                    "name": "ADAS Camera Module",
+                    "reason": "High surplus units (555) and revenue potential (12110000.0 INR)"
+                }
+            ],
+            "parts_to_reduce": [
+                {
+                    "part_id": "SUS-001",
+                    "name": "MacPherson Strut Assembly",
+                    "reason": "Negative production pressure (-1.0)"
+                },
+                {
+                    "part_id": "ELE-003",
+                    "name": "Battery Management System",
+                    "reason": "Negative production pressure (-1.0)"
+                },
+                {
+                    "part_id": "BRK-001",
+                    "name": "Disc Brake Rotor Front Pair",
+                    "reason": "Low social factor (0.85)"
+                }
+            ],
+            "immediate_actions": [
+                "Increase production of top-priority parts",
+                "Sell surplus units of ELE-002 and ELE-003",
+                "Monitor and adjust production plan based on market and social signals"
+            ],
+            "risk_flags": [
+                "Negative production pressure for SUS-001 and ELE-003",
+                "Low social factor for BRK-001"
+            ],
+            "revenue_opportunities": [
+                "Sell surplus units of ELE-002 and ELE-003",
+                "Increase production of top-priority parts"
+            ],
+            "confidence": "HIGH",
+            "one_liner": "Ramp up production to meet growing customer demands and capitalize on revenue opportunities."
+        },
+        "statistics": {
+            "high_priority_parts": 0,
+            "medium_priority_parts": 2,
+            "low_priority_parts": 13,
+            "total_rec_daily_units": 279
+        }
+    },
+    "executive_summary": "\n======================================================================\n                OPTISTOCK AI \u2014 EXECUTIVE SUMMARY REPORT               \n======================================================================\n\nPLANT DECISION: RAMP_UP\nCONFIDENCE: HIGH\n\nRATIONALE:\nStrong market demand, positive social signals, and manageable inventory levels suggest increasing production to meet growing customer needs.\n\nKEY INSIGHT:\nRamp up production to meet growing customer demands and capitalize on revenue opportunities.\n\nTOP PRODUCTION PRIORITIES:\n  1. Engine Block 1.5L Petrol\n     Part ID: ENG-001\n     Reason: High market demand factor (1.0) and social factor (1.23)\n\n  2. Turbocharger Assembly\n     Part ID: ENG-002\n     Reason: High market demand factor (1.0) and social factor (1.15)\n\n  3. ADAS Camera Module\n     Part ID: ELE-002\n     Reason: High surplus units (555) and revenue potential (12110000.0 INR)\n\n\nCRITICAL RISK FLAGS:\n  \u26a0 Negative production pressure for SUS-001 and ELE-003\n  \u26a0 Low social factor for BRK-001\n\nREVENUE OPPORTUNITIES:\n  \ud83d\udcb0 Sell surplus units of ELE-002 and ELE-003\n  \ud83d\udcb0 Increase production of top-priority parts\n\nPARTS TO REDUCE/SELL:\n  \u2022 MacPherson Strut Assembly (SUS-001)\n    Reason: Negative production pressure (-1.0)\n  \u2022 Battery Management System (ELE-003)\n    Reason: Negative production pressure (-1.0)\n  \u2022 Disc Brake Rotor Front Pair (BRK-001)\n    Reason: Low social factor (0.85)\n\nIMMEDIATE ACTIONS:\n  \u2192 Increase production of top-priority parts\n  \u2192 Sell surplus units of ELE-002 and ELE-003\n  \u2192 Monitor and adjust production plan based on market and social signals\n\n======================================================================",
+    "saved_files": {
+        "json": "/Users/hudsonshoffi/Downloads/optistock/reports/optistock_report_20260327_184638.json",
+        "console": "/Users/hudsonshoffi/Downloads/optistock/reports/optistock_console_20260327_184638.txt",
+        "summary": "/Users/hudsonshoffi/Downloads/optistock/reports/optistock_executive_summary_20260327_184638.txt"
+    }
+}
