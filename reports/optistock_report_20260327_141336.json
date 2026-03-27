@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "system": "OptiStock AI v2.0",
+    "generated_at": "2026-03-27T08:43:22.909657Z",
+    "duration_s": 13.85,
+    "plant": "Chennai, India"
+  },
+  "summary": {
+    "market": {
+      "demand_factors": {
+        "ENG-001": 1.0,
+        "ENG-002": 1.0,
+        "ENG-003": 1.0,
+        "TRN-001": 1.0,
+        "TRN-002": 1.0,
+        "SUS-001": 1.0,
+        "SUS-002": 1.0,
+        "BRK-001": 1.0,
+        "BRK-002": 1.0,
+        "ELE-001": 1.0,
+        "ELE-002": 1.0,
+        "ELE-003": 1.0,
+        "EXH-001": 1.0,
+        "COO-001": 1.0,
+        "STR-001": 1.0
+      },
+      "sector_summary": {
+        "ev_momentum_pct": 0,
+        "oe_momentum_pct": 0.0,
+        "overall_sentiment": "Neutral",
+        "key_drivers": [
+          "fallback_rule_based"
+        ]
+      },
+      "top_demand_parts": [
+        "ENG-001",
+        "ENG-002",
+        "ENG-003"
+      ],
+      "low_demand_parts": [
+        "ENG-001",
+        "ENG-002"
+      ]
+    },
+    "environment": {
+      "production_factor": 1.0,
+      "risk_level": "LOW",
+      "risk_summary": "No significant hazards",
+      "active_alerts": [],
+      "safety_actions": [],
+      "worker_safety_ok": true,
+      "logistics_disruption": false,
+      "forecast_highlights": {
+        "max_rain_mm": 0.0,
+        "max_wind_kmh": 12.8,
+        "max_temp_c": 36.4,
+        "worst_condition": "Mainly Clear"
+      }
+    },
+    "inventory": {
+      "production_pressure": {
+        "ENG-001": 1.0,
+        "ENG-002": 1.0,
+        "ENG-003": -0.8,
+        "TRN-001": 0.0,
+        "TRN-002": -0.3,
+        "SUS-001": -0.8,
+        "SUS-002": 0.0,
+        "BRK-001": 0.3,
+        "BRK-002": -0.3,
+        "ELE-001": 0.3,
+        "ELE-002": -0.8,
+        "ELE-003": -0.8,
+        "EXH-001": -0.3,
+        "COO-001": 0.3,
+        "STR-001": 0.3
+      },
+      "urgent_production": [
+        {
+          "part_id": "ENG-002",
+          "name": "Turbocharger Assembly",
+          "dos": 2.8,
+          "recommended_qty": 61
+        },
+        {
+          "part_id": "ENG-001",
+          "name": "Engine Block 1.5L Petrol",
+          "dos": 3.3,
+          "recommended_qty": 108
+        }
+      ],
+      "sellable_surplus": [
+        {
+          "part_id": "ELE-003",
+          "name": "Battery Management System",
+          "surplus_units": 466,
+          "revenue_potential_inr": 13863500.0,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "ELE-002",
+          "name": "ADAS Camera Module",
+          "surplus_units": 432,
+          "revenue_potential_inr": 8078400.0,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "ENG-003",
+          "name": "Fuel Injector Set 4-cyl",
+          "surplus_units": 300,
+          "revenue_potential_inr": 2167500.0,
+          "sell_priority": "HIGH"
+        },
+        {
+          "part_id": "SUS-001",
+          "name": "MacPherson Strut Assembly",
+          "surplus_units": 211,
+          "revenue_potential_inr": 1111970.0,
+          "sell_priority": "HIGH"
+        }
+      ],
+      "reorder_items": [
+        {
+          "part_id": "ENG-001",
+          "name": "Engine Block 1.5L Petrol",
+          "order_qty": 156,
+          "urgency": "CRITICAL",
+          "estimated_cost_inr": 7020000
+        },
+        {
+          "part_id": "ENG-002",
+          "name": "Turbocharger Assembly",
+          "order_qty": 119,
+          "urgency": "CRITICAL",
+          "estimated_cost_inr": 3332000
+        }
+      ],
+      "inventory_health_score": 70,
+      "total_surplus_value_inr": 25221370.0,
+      "total_reorder_cost_inr": 10352000.0
+    },
+    "social": {
+      "social_signals": {
+        "ENG-001": 1.363,
+        "ENG-002": 1.363,
+        "ENG-003": 1.363,
+        "TRN-001": 1.029,
+        "TRN-002": 1.029,
+        "SUS-001": 1.204,
+        "SUS-002": 1.204,
+        "BRK-001": 1.029,
+        "BRK-002": 1.029,
+        "ELE-001": 1.6,
+        "ELE-002": 1.6,
+        "ELE-003": 1.6,
+        "EXH-001": 1.029,
+        "COO-001": 1.029,
+        "STR-001": 1.029
+      },
+      "buzz_summary": {
+        "overall_sentiment": "Positive",
+        "buzz_score": 100,
+        "trending_topics": [
+          "EV",
+          "engine",
+          "SUV",
+          "car sales",
+          "turbo"
+        ],
+        "ev_vs_ice_split_pct": {
+          "ev": 45,
+          "ice": 55
+        },
+        "top_reddit_mentions": [
+          "EV",
+          "engine",
+          "SUV",
+          "car sales",
+          "turbo"
+        ],
+        "key_news_themes": []
+      },
+      "hottest_category": "Electronics",
+      "coldest_category": "Steering"
+    }
+  },
+  "production_plan": {
+    "ENG-001": {
+      "part_id": "ENG-001",
+      "name": "Engine Block 1.5L Petrol",
+      "category": "Powertrain",
+      "unit_cost": 45000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.363,
+      "inv_factor": 1.5,
+      "env_factor": 1.0,
+      "combined_score": 1.2157,
+      "rec_daily_qty": 28,
+      "priority": "HIGH"
+    },
+    "ENG-002": {
+      "part_id": "ENG-002",
+      "name": "Turbocharger Assembly",
+      "category": "Powertrain",
+      "unit_cost": 28000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.363,
+      "inv_factor": 1.5,
+      "env_factor": 1.0,
+      "combined_score": 1.2157,
+      "rec_daily_qty": 28,
+      "priority": "HIGH"
+    },
+    "ENG-003": {
+      "part_id": "ENG-003",
+      "name": "Fuel Injector Set 4-cyl",
+      "category": "Powertrain",
+      "unit_cost": 8500,
+      "mkt_factor": 1.0,
+      "social_factor": 1.363,
+      "inv_factor": 0.6,
+      "env_factor": 1.0,
+      "combined_score": 0.9908,
+      "rec_daily_qty": 23,
+      "priority": "MEDIUM"
+    },
+    "TRN-001": {
+      "part_id": "TRN-001",
+      "name": "Manual Gearbox 5-speed",
+      "category": "Transmission",
+      "unit_cost": 32000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 1.0072,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    },
+    "TRN-002": {
+      "part_id": "TRN-002",
+      "name": "CVT Transmission Unit",
+      "category": "Transmission",
+      "unit_cost": 55000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 0.85,
+      "env_factor": 1.0,
+      "combined_score": 0.9698,
+      "rec_daily_qty": 23,
+      "priority": "MEDIUM"
+    },
+    "SUS-001": {
+      "part_id": "SUS-001",
+      "name": "MacPherson Strut Assembly",
+      "category": "Suspension",
+      "unit_cost": 6200,
+      "mkt_factor": 1.0,
+      "social_factor": 1.204,
+      "inv_factor": 0.6,
+      "env_factor": 1.0,
+      "combined_score": 0.951,
+      "rec_daily_qty": 22,
+      "priority": "MEDIUM"
+    },
+    "SUS-002": {
+      "part_id": "SUS-002",
+      "name": "Anti-Roll Bar Kit",
+      "category": "Suspension",
+      "unit_cost": 3800,
+      "mkt_factor": 1.0,
+      "social_factor": 1.204,
+      "inv_factor": 1.0,
+      "env_factor": 1.0,
+      "combined_score": 1.051,
+      "rec_daily_qty": 25,
+      "priority": "MEDIUM"
+    },
+    "BRK-001": {
+      "part_id": "BRK-001",
+      "name": "Disc Brake Rotor Front Pair",
+      "category": "Brakes",
+      "unit_cost": 4500,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 1.15,
+      "env_factor": 1.0,
+      "combined_score": 1.0447,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    },
+    "BRK-002": {
+      "part_id": "BRK-002",
+      "name": "ABS Sensor Module",
+      "category": "Brakes",
+      "unit_cost": 7200,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 0.85,
+      "env_factor": 1.0,
+      "combined_score": 0.9698,
+      "rec_daily_qty": 23,
+      "priority": "MEDIUM"
+    },
+    "ELE-001": {
+      "part_id": "ELE-001",
+      "name": "ECU Engine Control Unit",
+      "category": "Electronics",
+      "unit_cost": 18500,
+      "mkt_factor": 1.0,
+      "social_factor": 1.6,
+      "inv_factor": 1.15,
+      "env_factor": 1.0,
+      "combined_score": 1.1875,
+      "rec_daily_qty": 28,
+      "priority": "HIGH"
+    },
+    "ELE-002": {
+      "part_id": "ELE-002",
+      "name": "ADAS Camera Module",
+      "category": "Electronics",
+      "unit_cost": 22000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.6,
+      "inv_factor": 0.6,
+      "env_factor": 1.0,
+      "combined_score": 1.05,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    },
+    "ELE-003": {
+      "part_id": "ELE-003",
+      "name": "Battery Management System",
+      "category": "Electronics",
+      "unit_cost": 35000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.6,
+      "inv_factor": 0.6,
+      "env_factor": 1.0,
+      "combined_score": 1.05,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    },
+    "EXH-001": {
+      "part_id": "EXH-001",
+      "name": "Catalytic Converter",
+      "category": "Exhaust",
+      "unit_cost": 9800,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 0.85,
+      "env_factor": 1.0,
+      "combined_score": 0.9698,
+      "rec_daily_qty": 23,
+      "priority": "MEDIUM"
+    },
+    "COO-001": {
+      "part_id": "COO-001",
+      "name": "Radiator Assembly",
+      "category": "Cooling",
+      "unit_cost": 5500,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 1.15,
+      "env_factor": 1.0,
+      "combined_score": 1.0447,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    },
+    "STR-001": {
+      "part_id": "STR-001",
+      "name": "Power Steering Rack",
+      "category": "Steering",
+      "unit_cost": 12000,
+      "mkt_factor": 1.0,
+      "social_factor": 1.029,
+      "inv_factor": 1.15,
+      "env_factor": 1.0,
+      "combined_score": 1.0447,
+      "rec_daily_qty": 24,
+      "priority": "MEDIUM"
+    }
+  },
+  "executive_summary": {
+    "error": "Error code: 404 - {'error': {'message': 'The model `llama-3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+  },
+  "statistics": {
+    "high_priority_parts": 3,
+    "medium_priority_parts": 12,
+    "low_priority_parts": 0,
+    "total_rec_daily_units": 367
+  }
+}

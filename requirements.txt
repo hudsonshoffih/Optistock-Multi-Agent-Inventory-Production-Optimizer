@@ -1,0 +1,23 @@
+# requirements.txt
+# Core
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+python-dotenv==1.0.1
+
+# LLM
+groq==0.4.2
+
+# Data & Finance
+yfinance==0.2.43
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+
+# Utilities
+colorama==0.4.6
+tabulate==0.9.0
+
+# Optional: caching
+# redis==5.0.8
+# hiredis==3.0.0
